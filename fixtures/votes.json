@@ -1,0 +1,1146 @@
+[
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "Long time in the making after completing two prior Proposals as milestones since 2021, Danit is fantastic.",
+      "support": 1,
+      "voter": "0x008c84421dA5527F462886cEc43D2717B686A7e4",
+      "votes": 28
+    },
+    "blockNumber": 16256646,
+    "timestamp": 1671909647,
+    "transactionHash": "0xe75509d29d3b984d7520a5d5efda6899882bd29104a21ded600c1711615926bb"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xF9C298545dA80df7767C4e5a9296a071F13702B8",
+      "votes": 1
+    },
+    "blockNumber": 16256656,
+    "timestamp": 1671909767,
+    "transactionHash": "0x45c7d883306238ed1637448bd642948195c68b42ec0e86a19dc85030d22bd46e"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xFeA2Bf9CCaDB6fE6260d674d904c51a31A658105",
+      "votes": 1
+    },
+    "blockNumber": 16264699,
+    "timestamp": 1672006715,
+    "transactionHash": "0x1b2dbe556df03e0b9237bea75ad91257beba197572268e64d4187bb3d1dffbd7"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xDCb4117e3A00632efCaC3C169E0B23959f555E5e",
+      "votes": 13
+    },
+    "blockNumber": 16271601,
+    "timestamp": 1672089959,
+    "transactionHash": "0x324fffe91ee364091d144928b693a6a212968485380839e3cc43c62a5ce7fa51"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 0,
+      "voter": "0x41E72D30C967A595cC2c7dBc9e1Ed98638f3b8c8",
+      "votes": 1
+    },
+    "blockNumber": 16274242,
+    "timestamp": 1672121879,
+    "transactionHash": "0x742a626ecbd4b75d386070fd255f9a702e0c7b335196a779bb0e84e5ec1629eb"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "⌐◨-◨ ",
+      "support": 1,
+      "voter": "0xa903C06BF35286f6d1cDAD25396748353979a44C",
+      "votes": 2
+    },
+    "blockNumber": 16275310,
+    "timestamp": 1672134779,
+    "transactionHash": "0x7006a61f7ab735dfaa1e46f9186448993711ec68214a9e3345cf24457f0d5c57"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "Don't feel informed enough to make a good decision here, and don't have time this holiday season to meaningfully dig in.",
+      "support": 2,
+      "voter": "0x70eCe45cDc64A768f936Ccb8aC851578251363e3",
+      "votes": 1
+    },
+    "blockNumber": 16276654,
+    "timestamp": 1672151003,
+    "transactionHash": "0x0d2c329ca6ec054ced8e38dcff56c4e61ceb9c2ec6d21b4f31db84ad4bd2ddb4"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x75Ee6eb3d8DAcf41eE2e5307090B197D3E1Cca6E",
+      "votes": 22
+    },
+    "blockNumber": 16276737,
+    "timestamp": 1672151999,
+    "transactionHash": "0x515fc5553c48c4215f548bd2e34eeaad1e7b0ef439f7bd32347e4d33080ff057"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xE8D24bE3ABF6EB27B800F752A969D3C1E84fD401",
+      "votes": 1
+    },
+    "blockNumber": 16277817,
+    "timestamp": 1672165019,
+    "transactionHash": "0x716754c6b4ee4b5d7bfe9d04b0c9ed643b1ce37b9957bbab8fae53d2c545e252"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "no strong opinion on this proposal. Voting NO to increase quorum. If people have conviction on this then it should easily pass even with higher quorum.",
+      "support": 2,
+      "voter": "0x5606B493c51316A9e65c9b2A00BbF7Ff92515A3E",
+      "votes": 26
+    },
+    "blockNumber": 16278196,
+    "timestamp": 1672169579,
+    "transactionHash": "0xeff5b880ce78989523d64be9a1d6cab1f1be2ee7dea2f25cf571a1901eea474c"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 0,
+      "voter": "0x4754b7e3DEde42D71d6c92978f25F306176EC7e9",
+      "votes": 8
+    },
+    "blockNumber": 16278203,
+    "timestamp": 1672169675,
+    "transactionHash": "0xaa17dc10a6a39428efe0c8720bb082de74d2ca3703bf0086b48dd62d5ddf0cb0"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "3D printed fashion \"feels\" very Nounish to me, and I love the idea of it. Ask is reasonable imo.",
+      "support": 1,
+      "voter": "0xeb13fdDFA9B2A4a6E4e7B2D67b6E38C208C41249",
+      "votes": 1
+    },
+    "blockNumber": 16278232,
+    "timestamp": 1672170023,
+    "transactionHash": "0x99a1e1514540c6cfbd063dd56219710036f62b35477d49c42879d91b9491591f"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xed9E1904f6D80Da136A85d14D24d33A3EA8d21e6",
+      "votes": 1
+    },
+    "blockNumber": 16278814,
+    "timestamp": 1672177031,
+    "transactionHash": "0x023208f3d63183a8627ed3a75dd3a5bd0ca0a598f0d8b5347d5d65da373db6d1"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x021edd67d43B365a6401a5Ee704Aa6f264F3F4e4",
+      "votes": 2
+    },
+    "blockNumber": 16279180,
+    "timestamp": 1672181471,
+    "transactionHash": "0x85df9924bf612475cd7053992b4f4280a32754cda39ad3468ed107f0e05d1d69"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x696ed7b26f4B019CEeC78DC8b9140ad64A6f354B",
+      "votes": 11
+    },
+    "blockNumber": 16280575,
+    "timestamp": 1672198235,
+    "transactionHash": "0xbb46a9451d67af122f3272a48be23c8ad7d4db63d5145002b7458ba8223956ce"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xe4449CCEA5A59254ccF72B2466d769ec696bBe56",
+      "votes": 0
+    },
+    "blockNumber": 16280980,
+    "timestamp": 1672203119,
+    "transactionHash": "0xa32dee4cd90807d896f19574233e629ec98ee89e0ddaa37fee06e7f1f81c666c"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "Impressed that the plan laid out in the first prop is still holding. I think makes sense to see this work through given the time and funding already invested. Excited to see the result! ",
+      "support": 1,
+      "voter": "0xbc3ed6B537f2980e66f396Fe14210A56ba3f72C4",
+      "votes": 1
+    },
+    "blockNumber": 16284371,
+    "timestamp": 1672243991,
+    "transactionHash": "0x19ea1cf3fecf14af3e029d91164b57ee40339ca9948a5f3c2fb5f5f42c5b8b06"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "**Nouncil Vote:**\n\n34 Yes, 8 No\n\n14 Nouncillors abstained from the decision\n\n**YES WINS**\n\n---\n\n**Vote Reasons \u0026 Discussion**\n\n---\n\n**CHEFFO ⌐◧-◧** | *\"This is a very interesting prop. Touching on product design, event planning, community building, in Paris none the less. A true intersection of art, culture and tech. That is 100% Nounish.*\n\n*It is interesting to read back through the first two props on the Roadmap. Very cool to see the project laid out in stages, solidify itself and steadily work to this point. DAO support of the project completion cycle is fundamentally important. That does not mean with out discussion.*\n\n*Including the 30 NFT Paris event tickets is smart and hopefully will line up with other nounish things going on. I think it will be a key event for Nouns in Europe. People have been talking about it for months. This project can begin to solidify nouns as a fashion incubator. The press opportunities are tremendous. The on-boarding is tremendous. Paris is one of the best locations to potentially on-board affluent buyers who would be capable of joining the DAO.*\n\n*Event planning is very time intensive and requires major planning and organization. Nothing is cheap. Nouns should grasp the opportunities that are presenting themselves to engage with focused and excited audiences.*\n\n*Curious what the next steps could be after the event, but I think the artist and team is motivated and will be equip with excellent assets and display materials for on-going proliferation.*\n\n*CHEFFO = YES\"*\n\n**andreitr** | *\"For me this is a no brainer. I love Danit's work and this prop is Nounish AF. I also love how innovative (experimental?) this is. Strong YES for me.\"*\n\n**Coral Orca** | *\"danit is nounish\"*\n\n**kerimbonia** | *\"the ask is a high but i feel like the product looks great and the potential exposure/upside of a nouns x fashion in paris show is worth the risk. good luck\"*\n\n**.ZllW ⌐◨-◨** | *\"Given Danit who has been delivering per milestones since prop #26 \u0026 41, would love to see this materialized with prop #197.\"*\n\n**Josep** | *\"I believe this is a highly innovative proposal that aligns with the DAO. I have seen the work that has already been done and what is intended to be done in the coming months and I think it is a great way to target DAO funds.\"*\n\n**Mindtoasted** | *\"I voted yes for this, this is very nounish!\"*\n\n---\n\nFor more Nouns DAO proposal discussion head to the Nouncil Discord: https://discord.gg/nouncil",
+      "support": 1,
+      "voter": "0xcC2688350d29623E2A0844Cc8885F9050F0f6Ed5",
+      "votes": 11
+    },
+    "blockNumber": 16284613,
+    "timestamp": 1672246895,
+    "transactionHash": "0x2726fec9417251d49c8171be2e6307c1b7c584076eeb7a6fd507a84e6d025d92"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x177751396D8236569C5C7B04232C7b7281a3B9f3",
+      "votes": 2
+    },
+    "blockNumber": 16285285,
+    "timestamp": 1672254995,
+    "transactionHash": "0x3cd0834f489acf527b847648b964b08ed56cb850756cd83ba3f7ce1dda412eeb"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xE26D78c6bFF297Bbc2dA3f80FEA9a42028a4260F",
+      "votes": 3
+    },
+    "blockNumber": 16285753,
+    "timestamp": 1672260623,
+    "transactionHash": "0x27653c1fe1e45a54a837ea06cb27cedca0b84a328c2952892e4e061027770ad5"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x86030dbbCe1c771Ff6622C20455cd3619aa93c05",
+      "votes": 42
+    },
+    "blockNumber": 16285826,
+    "timestamp": 1672261511,
+    "transactionHash": "0x9100a66cfe4c633463247d7b339a20519b226b2befd2761efdf1dd9d5c3787bd"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xA1c0b11B86A46885B87c7ed68b91FAa0C349e1cD",
+      "votes": 1
+    },
+    "blockNumber": 16286522,
+    "timestamp": 1672269911,
+    "transactionHash": "0x51664269303b60240978b0cb0a45a2665fbb37274425a7ccb8aaef62a487e933"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x5ee24Cf78aeB5213F06C4ED718c7bbEF6fe1209E",
+      "votes": 1
+    },
+    "blockNumber": 16286776,
+    "timestamp": 1672272971,
+    "transactionHash": "0xa0484f9ac1794e2d62e881110ca01ac4932e5196f36b968cb7cf0f91a598059f"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xCB43078C32423F5348Cab5885911C3B5faE217F9",
+      "votes": 1
+    },
+    "blockNumber": 16287209,
+    "timestamp": 1672278215,
+    "transactionHash": "0x2961e3de0d730a7eed7e16074e2062db3a68f26f99b5a472c6d00e349ca582fc"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x0B3CF56E7dF3BB3Fb7201fFcD96d279b05DDd2E3",
+      "votes": 1
+    },
+    "blockNumber": 16287798,
+    "timestamp": 1672285307,
+    "transactionHash": "0x4a999f49fd46bd38d13049ed621fa2d1b144222181af1c81ecb550e8f70926fa"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "nounish",
+      "support": 1,
+      "voter": "0x91dCCAA260CC4616E1a6e6b693DB7207C5E42937",
+      "votes": 3
+    },
+    "blockNumber": 16288329,
+    "timestamp": 1672291691,
+    "transactionHash": "0x969207e8d45a9506d15510b93ac211cf0a3e10e4fa297b75ecfcf9fed6437bf5"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xAEC4075e4fc8cE829BC4f0cFD5e2fA10dd2b12D1",
+      "votes": 2
+    },
+    "blockNumber": 16290140,
+    "timestamp": 1672313603,
+    "transactionHash": "0x00f8b043f32a336975e7a1c901dbfe5aa951595db4df44d477e6cdcd8ddf30f7"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x19Cc9d48f2032f3EC8d6f60EA84979169A848231",
+      "votes": 2
+    },
+    "blockNumber": 16290443,
+    "timestamp": 1672317239,
+    "transactionHash": "0xcc358f4d66d0ff6ea6c377871f83fcf3ec0ab19daa2ac798326b4ba1a3941362"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "Innovative and beautiful 3D-printed clothing... that's Ugly. ",
+      "support": 1,
+      "voter": "0x31A50FD42b910c635e4d25B63b7b90FAd1451695",
+      "votes": 2
+    },
+    "blockNumber": 16291326,
+    "timestamp": 1672327907,
+    "transactionHash": "0x6a163981e9d038bfa2dcdae4ea5201d0e8972c15fc37ca0a7032cd8201e540e7"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xA86882277E69FbF0a51805cdc8b0a3a113079E63",
+      "votes": 2
+    },
+    "blockNumber": 16291411,
+    "timestamp": 1672328939,
+    "transactionHash": "0xdfb44c36102fb5ca9b49d03a20122454626301f9b4d64d7729358b8ce1a599c3"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x1e66a3D0a6A327b1F29e8ACf3a3d9E1E4E088683",
+      "votes": 2
+    },
+    "blockNumber": 16291431,
+    "timestamp": 1672329179,
+    "transactionHash": "0x57af3e8a5a912fac2a08e2b849dd4777cba454d56ccb567b1acd8c6315d85560"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0x44b1b486Ce8d9C82f605626347a7B1F74ADD11DE",
+      "votes": 1
+    },
+    "blockNumber": 16291514,
+    "timestamp": 1672330175,
+    "transactionHash": "0x220433272d26680ce8505c9ac8b1c321de9e714c69a56fb93bbeaf818705be71"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xe087cc2689ffB5492dce338e10E4dbf0E9252C3C",
+      "votes": 1
+    },
+    "blockNumber": 16291964,
+    "timestamp": 1672335599,
+    "transactionHash": "0x79e5683563ed90d73ff93cf48f187b0af43d7e52ecfcdfa5b20824db8a7b4a0c"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 197,
+      "reason": "",
+      "support": 1,
+      "voter": "0xDEAD753f9B1eb8F2f7372E8587e7C6e342daac89",
+      "votes": 2
+    },
+    "blockNumber": 16292408,
+    "timestamp": 1672340939,
+    "transactionHash": "0x39f8e1e85beda3376fb483c8092b5f062a2371b2468386be6af5fec543ea7b9d"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0x3B502B054715A8e0D8F657169615A88B2CCDD429",
+      "votes": 2
+    },
+    "blockNumber": 16310303,
+    "timestamp": 1672556639,
+    "transactionHash": "0xb798967141890329e8648d845b96ed1da8e1e62c97a676291bb070ea384d5147"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x2767eDfee9f5ba743511Ee4187A596B302B43938",
+      "votes": 1
+    },
+    "blockNumber": 16311142,
+    "timestamp": 1672566767,
+    "transactionHash": "0xba6623be693d40063825802102db892675d9256b5fe6bceafe0bc1aee1fa1d1b"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xf1544Ba9A1aD3c8C8B507de3e1F5243c3697E367",
+      "votes": 3
+    },
+    "blockNumber": 16311597,
+    "timestamp": 1672572251,
+    "transactionHash": "0x566494bab25d125a2d128e4bb985df15bbfd4042133093166d6b8d8a5dc44b31"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x3993996B09949BBA655d98C02c87EA6ABf553630",
+      "votes": 2
+    },
+    "blockNumber": 16312428,
+    "timestamp": 1672582247,
+    "transactionHash": "0x6cda127b5c347f29e15b5d049b7d7eff6037523202137f0bedf6437a24592c77"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x7B7736a2C07C4332FfaD45a039d2117aE15e3f66",
+      "votes": 1
+    },
+    "blockNumber": 16313193,
+    "timestamp": 1672591499,
+    "transactionHash": "0x69beabc49a08ceedcca3366931e97b8dd4b29cd85f3b7a5448ed6ae328507e94"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xeb13fdDFA9B2A4a6E4e7B2D67b6E38C208C41249",
+      "votes": 1
+    },
+    "blockNumber": 16313239,
+    "timestamp": 1672592063,
+    "transactionHash": "0xaa0b68d703b48f0a9fd72bbf8db88ac6999b8358a03def1129c40acd5562f198"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x515299b1A2637181ec95a3EFEaa42A466195A40f",
+      "votes": 1
+    },
+    "blockNumber": 16313484,
+    "timestamp": 1672595003,
+    "transactionHash": "0x260f50b6b7e7fe7234dcfee5cdaa41f98062d77b14530bc327f51ef7b51cd0ab"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xF9C298545dA80df7767C4e5a9296a071F13702B8",
+      "votes": 1
+    },
+    "blockNumber": 16313636,
+    "timestamp": 1672596839,
+    "transactionHash": "0x3e0e160aa5b8bf9e1f2812709c3571a9dab0c5907d29c3d766d364ff52af6def"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x184e237B72665D359ff1e9a2EE98D1A7A16Ee2e1",
+      "votes": 1
+    },
+    "blockNumber": 16315087,
+    "timestamp": 1672614299,
+    "transactionHash": "0x8dc6c297e4e618e2d0d48823266bbf6269a390f5898ad68992509d54208c7780"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xDCb4117e3A00632efCaC3C169E0B23959f555E5e",
+      "votes": 13
+    },
+    "blockNumber": 16317459,
+    "timestamp": 1672642859,
+    "transactionHash": "0xffd66221d31c8dc9d4249da981e18a2db64d76b9ef7e941f3bb621b82b91e35a"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xe085327c5AD2F77147F10973Fed45Fb19d734F7e",
+      "votes": 1
+    },
+    "blockNumber": 16317636,
+    "timestamp": 1672644983,
+    "transactionHash": "0x110994d8c05c223fa2b64c14dfb0ebb1044cb7ec132927beb644a191cb4c8273"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "Cost is leading me to abstain. I'm not confident enough to vote yes, but like everything the team is doing so don't want to vote no. ",
+      "support": 2,
+      "voter": "0x8BecD7EbF3F910090f9264DFD0Bb221Ea04af8c3",
+      "votes": 1
+    },
+    "blockNumber": 16321139,
+    "timestamp": 1672687235,
+    "transactionHash": "0x83eafa3a1f8c9840ce41a02beebef6b99e84cb3d071a0d8db42ba2e4eb8a0a84"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x3496f3600070CC01d9665d1057F6F39afC0fe149",
+      "votes": 3
+    },
+    "blockNumber": 16321344,
+    "timestamp": 1672689695,
+    "transactionHash": "0xdf1aad8591cae24a999f642aa926070db253fef99d8a807e3f766a389794a477"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "**Nouncil Vote:**\n\n30 Yes, 13 No, 4 Abstain\n\n14 Nouncillors abstained from the decision\n\n**YES WINS**\n\n---\n\n**Vote Reasons \u0026 Discussion**\n\n---\n\n**Mach** | *\"Saw this proposal from conception to on-chain and happy to support it. This could have huge implications for nouns and a one of the first major events where nouns is put in front of a non-native audience and explained in clarity.\"*\n\n**Bigshot Klim** | *\"Lots of great opportunities for proliferation and discovery for a whole new audience on a global scale\"*\n\n**Coral Orca** | *\"esport is the way\"*\n\n**Josep** | *\"I don't have a deep knowledge of the esports sector, I will spend more time investigating the possibilities it offers for new proposals. In this case I abstain as my lack of knowledge about this industry makes it impossible for me to vote for the option that is in the DAO's best interest.\"* \n\n**metamonk** | *\"E-sports is a great niche to build a presence in. Nouns E-sports has done a fantastic job so far in proliferating Nouns in the space.\"*\n\n**Mindtoasted** | *\"This is very Nounish, hell yes from me, I love dota since I was in highschool, created a lot of interesting moments every quite period of time until now.\"*\n\n**andreitr** | *\"This looks legit but I am completely ignorant when it comes to anything Esports. Going to sit this one out (abstain) and educate myself on the space.\"*\n\n**Voadz** | *\"I love Dota. Huge potential \u0026 exposure for Nouns. Legit 💯\"*\n\n---\n\nFor more Nouns DAO proposal discussion head to the Nouncil Discord: https://discord.gg/nouncil",
+      "support": 1,
+      "voter": "0xcC2688350d29623E2A0844Cc8885F9050F0f6Ed5",
+      "votes": 11
+    },
+    "blockNumber": 16321526,
+    "timestamp": 1672691891,
+    "transactionHash": "0x9ad1e9d37cd30a278f815836f358d7cf9fb126b800bc3d7ccbea82265e3ba3ae"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x1e66a3D0a6A327b1F29e8ACf3a3d9E1E4E088683",
+      "votes": 2
+    },
+    "blockNumber": 16321556,
+    "timestamp": 1672692251,
+    "transactionHash": "0x53fb589ff803bb868819f66d8a570f1fbfb4e049c4e9bae1479b373a2a8c9a98"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xE73F9c181B571Cac2bf3173634d04a9921b7fFcf",
+      "votes": 1
+    },
+    "blockNumber": 16321572,
+    "timestamp": 1672692455,
+    "transactionHash": "0xabc39674f4cc94b96dae596e5e72038bf402474b69925c54ae9a25692b605a1b"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "I don't understand enough about esports to make a decision on an ask of this magnitude. In theory not opposed to it, but would like other nouners more familiar with this area to chime in.",
+      "support": 2,
+      "voter": "0xC3FdAdbAe46798CD8762185A09C5b672A7aA36Bb",
+      "votes": 1
+    },
+    "blockNumber": 16321836,
+    "timestamp": 1672695635,
+    "transactionHash": "0x2991cb3958935257639d714f25443b6e272874bee028a324dbd5a32c5f5b5729"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xe1F442c7fEA3B6d0C8C176Ac4608620443f491Fd",
+      "votes": 0
+    },
+    "blockNumber": 16323133,
+    "timestamp": 1672711259,
+    "transactionHash": "0x9d39de821003422fbb68b6a8daea2c5d877cb3278d736000a6a9dd1c566d26ad"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x5606B493c51316A9e65c9b2A00BbF7Ff92515A3E",
+      "votes": 25
+    },
+    "blockNumber": 16323146,
+    "timestamp": 1672711415,
+    "transactionHash": "0x423729b7aaceb5e42ee08afb1f45285b7db1734704046fd86f0f81fa10feb178"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x4754b7e3DEde42D71d6c92978f25F306176EC7e9",
+      "votes": 8
+    },
+    "blockNumber": 16323148,
+    "timestamp": 1672711439,
+    "transactionHash": "0x1a49a2db62222464af69bbf70ca48acdf4c70933858f5610064410ce00a39b4d"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0x91dCCAA260CC4616E1a6e6b693DB7207C5E42937",
+      "votes": 3
+    },
+    "blockNumber": 16323323,
+    "timestamp": 1672713539,
+    "transactionHash": "0x234f3e216486726a27100fb2a4655dfc3a26505ba123d887f218b4d8fbd92a84"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "nom nom esports\n\nanother great project started \u0026 lead by SharkDAO members, always ahead of the curve and doing great work in the space. overwhelming support from the DAO to keep building.",
+      "support": 1,
+      "voter": "0xBd7Dbab9AEb52D6c8d0E80fCeBdE3af4CC86204A",
+      "votes": 6
+    },
+    "blockNumber": 16323852,
+    "timestamp": 1672719899,
+    "transactionHash": "0xd67a052746197e3a518bcd778acf9553fd7ff5d8180cc562838b7547eb34198f"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xaafCA6E684dBCA42D8846d64ABd1d28AEe8207f3",
+      "votes": 1
+    },
+    "blockNumber": 16324168,
+    "timestamp": 1672723691,
+    "transactionHash": "0x81ae7236b037776dc8df1cb097d1b1e561bf086d24294524bd21cc13ef75cc7a"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xF627E5F4BAd95a956468d8BB6Ee20b119F992E96",
+      "votes": 1
+    },
+    "blockNumber": 16325236,
+    "timestamp": 1672736591,
+    "transactionHash": "0x4107f732709ec69d1c003e4e3b9fde88013ed8ae2c7ac2d18507c0dc042e5a00"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0x36A5Bc205DF1ED65C86301022cfc343a6ce546ff",
+      "votes": 2
+    },
+    "blockNumber": 16326520,
+    "timestamp": 1672752047,
+    "transactionHash": "0x46ace964a4b99a4a74d47ecbf5022d127a13d530de782a2085e305ff17ff59f6"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "Enormous budget on a relatively short timeline. Given my lack of understanding on the esports industry as a whole, I'm unable to justify voting yes given those two observations.",
+      "support": 2,
+      "voter": "0x70eCe45cDc64A768f936Ccb8aC851578251363e3",
+      "votes": 1
+    },
+    "blockNumber": 16327293,
+    "timestamp": 1672761371,
+    "transactionHash": "0x9395aa9c367db7bbd47f12183357a54fae20e99ba913e37e894bce471be8d523"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0x696ed7b26f4B019CEeC78DC8b9140ad64A6f354B",
+      "votes": 11
+    },
+    "blockNumber": 16327441,
+    "timestamp": 1672763147,
+    "transactionHash": "0x4dfe305add93248557044b267307a1f470d55469fee5a644e3d2bfd08e074c73"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xE8D24bE3ABF6EB27B800F752A969D3C1E84fD401",
+      "votes": 1
+    },
+    "blockNumber": 16327556,
+    "timestamp": 1672764551,
+    "transactionHash": "0xa1d62c9799c321ae88246e49305de6f147350117c169ba8c0bcfcf0626c3a508"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0x9f4838f18104f4973Aa0972A73A3F50bDeBf86Ba",
+      "votes": 2
+    },
+    "blockNumber": 16327717,
+    "timestamp": 1672766495,
+    "transactionHash": "0xcb63b8a0611d6e1a78b9ed5c948f462f3faf6a5c81b6195a2024e2b2dc41a369"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0xe087cc2689ffB5492dce338e10E4dbf0E9252C3C",
+      "votes": 1
+    },
+    "blockNumber": 16327820,
+    "timestamp": 1672767743,
+    "transactionHash": "0x019ec216f60b15636ba9d4362ddde6c1bf67defa9385f313833742462d1e0512"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "After some consideration gonna take a leap of faith here. Think we gonna regret passing on this.",
+      "support": 1,
+      "voter": "0xA86882277E69FbF0a51805cdc8b0a3a113079E63",
+      "votes": 2
+    },
+    "blockNumber": 16328051,
+    "timestamp": 1672770527,
+    "transactionHash": "0xdd9074dd2c749e11dfab5ffa7613973bfad6095ed91563fd21190e91d45b2a93"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "Uncertain fit for the cost, need its fit demonstrated before this type of commitment",
+      "support": 0,
+      "voter": "0x008c84421dA5527F462886cEc43D2717B686A7e4",
+      "votes": 28
+    },
+    "blockNumber": 16328190,
+    "timestamp": 1672772207,
+    "transactionHash": "0xcda45855ffcd065981ebce0cc46f78c5e96ba872f6e0ba4b7d483a78e75088ee"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x6A693A682F8CFEA669C3170814d875107CB3aCCB",
+      "votes": 1
+    },
+    "blockNumber": 16328904,
+    "timestamp": 1672780811,
+    "transactionHash": "0xff612d306147cb22cf26204e9c73db134e6d6c18ed954cc663f44720948ade62"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x0B3CF56E7dF3BB3Fb7201fFcD96d279b05DDd2E3",
+      "votes": 1
+    },
+    "blockNumber": 16329273,
+    "timestamp": 1672785263,
+    "transactionHash": "0x851025724717bd34407dcdb103bf969cef005400040c80432c357ebb9775d490"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xe703f231aB056eCb99C92a1232cC1020ACFC72f8",
+      "votes": 2
+    },
+    "blockNumber": 16329283,
+    "timestamp": 1672785395,
+    "transactionHash": "0xb2ace4b9dba024e83bb9e98ff495d33f6bf2aba9b8a3290376f62571dead97dc"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "Like esports pod. Dislike vibe from team on Reddit especially ",
+      "support": 0,
+      "voter": "0x5ee24Cf78aeB5213F06C4ED718c7bbEF6fe1209E",
+      "votes": 1
+    },
+    "blockNumber": 16329792,
+    "timestamp": 1672791503,
+    "transactionHash": "0xd1b3fbcd4bfcf976fed9c7e05f5a961298558e980f07d31106588278bd341611"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xAEC4075e4fc8cE829BC4f0cFD5e2fA10dd2b12D1",
+      "votes": 2
+    },
+    "blockNumber": 16333153,
+    "timestamp": 1672832027,
+    "transactionHash": "0x80f7a62a39c7f5369209b8e4705ca18871ca31c6531a28901995623145fe4197"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 2,
+      "voter": "0x86030dbbCe1c771Ff6622C20455cd3619aa93c05",
+      "votes": 42
+    },
+    "blockNumber": 16334852,
+    "timestamp": 1672852523,
+    "transactionHash": "0x81d4a41f4bbd64c3dadf322bb9366646ab0672ccc90f1aee98800f3bedd28f26"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 2,
+      "voter": "0xA387c87102fc0B51939d0CF9A86F7edd05291D5c",
+      "votes": 1
+    },
+    "blockNumber": 16335186,
+    "timestamp": 1672856543,
+    "transactionHash": "0xc20ec83508689cda94b246c3823aae255a526523d605ee27c1f243f00fe89575"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "Super grateful to the proposers for all the time they put into writing this and answering questions. Really excited Nouns can draw in people new to crypto and this quality of proposal. That said, I'm voting against. It’s a decent amount of ETH, both in absolute terms and as a % of the treasury. I don’t doubt that it is warranted for a quality event, but I think there are better ways the DAO could use the money. In particular, I am more interested in going deeper with our true fans than trying to reach out to a community that has historically disdained NFTs/crypto (the Dota subreddit responses to this proposal were not encouraging). I also felt a bit like the proposal was made to work for the proposers in a way that maybe doesn’t make the most sense for Nouns: the emphasis on using the proposer’s venue and the VIP Nouns experience. Finally, there were a lot of ideas here about how to use NFTs in the contest itself, but the proposers by their own admission seem to have little experience in the space. I think there’s a lot of subtlety here and it would take some real experience to get it right. Hope to see these proposers back with other ideas in the future! \n",
+      "support": 0,
+      "voter": "0xbc3ed6B537f2980e66f396Fe14210A56ba3f72C4",
+      "votes": 1
+    },
+    "blockNumber": 16335687,
+    "timestamp": 1672862555,
+    "transactionHash": "0x993f5a29dbdb2e3b009ebe9209c0d8cf27ad155694dcd437e18dbb1f7a3b4a18"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x44b1b486Ce8d9C82f605626347a7B1F74ADD11DE",
+      "votes": 1
+    },
+    "blockNumber": 16337575,
+    "timestamp": 1672885307,
+    "transactionHash": "0xc0ee53e11bf46e4672b5119f22c5344c08cff1c30858702d5002272090bebcc2"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0x65B5e05CcD26C87A19B455B18309aF687c6E7473",
+      "votes": 0
+    },
+    "blockNumber": 16339129,
+    "timestamp": 1672904063,
+    "transactionHash": "0x5977b6060be4cf4495d413b01ff85834ddafc287e420fffb60b7d4810b021880"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x1D3bc1F9D3f9770453949aBd619592CD7583c5Ed",
+      "votes": 1
+    },
+    "blockNumber": 16340837,
+    "timestamp": 1672924679,
+    "transactionHash": "0x2fa9e7457e9cb0946cbe59d2c1c51d93930f16818293161c45d225d97e964aa6"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0xa8d04Cd4e1951291740Ef977d56336fDC7f394c5",
+      "votes": 5
+    },
+    "blockNumber": 16341136,
+    "timestamp": 1672928303,
+    "transactionHash": "0x40bf790a980bc95dcb900d951b5fd74a07cd941de21e32a53331577369cb19dd"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x583885492B1aC55e6633CDd89d03939033C96bf8",
+      "votes": 1
+    },
+    "blockNumber": 16341668,
+    "timestamp": 1672934711,
+    "transactionHash": "0xed13b2dab012606bca952c982c7acde967612c040b5135ba7a4ded048d0fa6a6"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "While this is a large ask, I think there is huge value in this proposal.\nAt this point in time, it doesn't look like it will be successful unfortunately, but decided to show my support nonetheless.\nMaybe this would be more successful when eth prices are higher, who knows?",
+      "support": 1,
+      "voter": "0xa903C06BF35286f6d1cDAD25396748353979a44C",
+      "votes": 2
+    },
+    "blockNumber": 16341668,
+    "timestamp": 1672934711,
+    "transactionHash": "0xfb5071bed3309740efca28edd7518a76385057fc2f0adf0b4336d3f4e101d85d"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 2,
+      "voter": "0xE26D78c6bFF297Bbc2dA3f80FEA9a42028a4260F",
+      "votes": 3
+    },
+    "blockNumber": 16342322,
+    "timestamp": 1672942619,
+    "transactionHash": "0x5446df9a055434128eb55aba97f1e2dcdf718b0134021304bcd9067e8e19ee1d"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "thoughtful proposal but given it's considerable cost i am not convinced the dao will get the bang for our buck required to justify such a large outlay",
+      "support": 0,
+      "voter": "0x75Ee6eb3d8DAcf41eE2e5307090B197D3E1Cca6E",
+      "votes": 22
+    },
+    "blockNumber": 16342564,
+    "timestamp": 1672945523,
+    "transactionHash": "0x40948fa056239e46deb8d886e37f4b907e50d94b5a90a0c1580c9ce4fb8c0e02"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0xDEAD753f9B1eb8F2f7372E8587e7C6e342daac89",
+      "votes": 2
+    },
+    "blockNumber": 16342652,
+    "timestamp": 1672946591,
+    "transactionHash": "0x0098e05ac8a45c864aec2fa495d3d8161432d92f8c5a5ef19d76846849c014ef"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "voting against because the bet size is too large relative to the culture fit. am generally supportive of ambitious proposers with large distribution channels but they have to be a better fit with nouns culture and aesthetic. thank you to the proposers and the nouns esports group",
+      "support": 0,
+      "voter": "0x83fCFe8Ba2FEce9578F0BbaFeD4Ebf5E915045B9",
+      "votes": 16
+    },
+    "blockNumber": 16343113,
+    "timestamp": 1672952207,
+    "transactionHash": "0xa16901199560a797e7c694b1b408628d37665d56432ebd9e83de845129fb6238"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 1,
+      "voter": "0x19Cc9d48f2032f3EC8d6f60EA84979169A848231",
+      "votes": 2
+    },
+    "blockNumber": 16343301,
+    "timestamp": 1672954463,
+    "transactionHash": "0x8f0b7d5fc154ea281209c9918f7f542838bc751912618f6ebf6d7c07bb4b8a9a"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x8AE80e0B44205904bE18869240c2eC62D2342785",
+      "votes": 1
+    },
+    "blockNumber": 16343655,
+    "timestamp": 1672958735,
+    "transactionHash": "0xdd7863c890eedcc6063368e42deca8b1bd763188c2ca9cabb0e0777569de1411"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 0,
+      "voter": "0x13eEf4EF8FCa471f242ab0F8F49A3dB6017aDA33",
+      "votes": 1
+    },
+    "blockNumber": 16344478,
+    "timestamp": 1672968683,
+    "transactionHash": "0x75e3d9d01ca87e5b95e7f2801ed7ccc9a2eecc8387b6d0bcdbcbe46368375931"
+  },
+  {
+    "address": "0x6f3e6272a167e8accb32072d08e0957f9c79223d",
+    "event": {
+      "proposalId": 198,
+      "reason": "",
+      "support": 2,
+      "voter": "0xA1c0b11B86A46885B87c7ed68b91FAa0C349e1cD",
+      "votes": 1
+    },
+    "blockNumber": 16345212,
+    "timestamp": 1672977551,
+    "transactionHash": "0x41aa3339fc96349959cc8fbc303195d4720d8fc9bdc55f248421393ec3129e21"
+  }
+]
