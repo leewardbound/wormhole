@@ -88,6 +88,7 @@ INSTALLED_APPS = [
     "debug_toolbar",
     "anymail",
     "wormhole.apps.users",
+    "wormhole.apps.indexer",
 ]
 
 SITE_ROOT = PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "../.."))

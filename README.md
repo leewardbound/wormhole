@@ -2,6 +2,24 @@
 
 > Copyright BoundCorp 2023
 
+## About
+**Project Wormhole** is a blockchain indexer for Nouns DAO.
+It is a takehome homework project built by Lee Edward Bound (BoundCorp) for Luke Miles at Context.App
+
+#### Features
++ Load data from the Nouns DAO contract (open `bin/djmanage shell_plus` and execute `Proposal.clean_initialize()`)
+<img src="./docs/shell_plus.png" />
+
++ View data using Django admin (create a user with `bin/djmanage createsuperuser` and visit `http://localhost:7778/mgmt/`)
+  <img src="./docs/django-admin.png" />
+
++ View and search proposals using a flexible GraphQL API (visit `http://localhost:7778/api/graphql/`)
+  <img src="./docs/gql-proposal.png" />
+ 
++ Filter votes by proposals and many more options (see `wormhole/apps/indexer/filters.py`)
+  <img src="./docs/gql-votes.png" />
+
+
 ## Running the Dev Environment
 
 We've setup a few quality-of-life utilities in the `bin/` folder to make running the dev environment easier.

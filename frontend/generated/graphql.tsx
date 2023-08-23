@@ -9,12 +9,17 @@ export type Scalars = {
   Boolean: boolean;
   Int: number;
   Float: number;
+  DateTime: any;
+  JSONString: any;
+  UUID: any;
 };
+
 
 export type Error = {
   __typename?: 'Error';
   message: Scalars['String'];
 };
+
 
 export type LogoutResult = Error | LogoutSuccess;
 
@@ -68,9 +73,82 @@ export type PasswordResetSuccess = {
   success?: Maybe<Scalars['Boolean']>;
 };
 
+export type Proposal = {
+  __typename?: 'Proposal';
+  blockNumber: Scalars['Int'];
+  blockTimestamp: Scalars['DateTime'];
+  contractAddress: Scalars['String'];
+  createdAt: Scalars['DateTime'];
+  description: Scalars['String'];
+  endBlock: Scalars['Int'];
+  fromTxHash: Scalars['String'];
+  id: Scalars['String'];
+  originalEventData: Scalars['JSONString'];
+  proposalId: Scalars['Int'];
+  proposer: Scalars['String'];
+  startBlock: Scalars['Int'];
+  updatedAt: Scalars['DateTime'];
+  votes: Array<ProposalVote>;
+};
+
+export type ProposalFilterSetInput = {
+  blockNumber?: Maybe<Scalars['String']>;
+  blockNumber_Gte?: Maybe<Scalars['String']>;
+  blockNumber_Lte?: Maybe<Scalars['String']>;
+  blockTimestamp?: Maybe<Scalars['String']>;
+  blockTimestamp_Gte?: Maybe<Scalars['String']>;
+  blockTimestamp_Lte?: Maybe<Scalars['String']>;
+  contractAddress?: Maybe<Scalars['String']>;
+  description?: Maybe<Scalars['String']>;
+  description_Icontains?: Maybe<Scalars['String']>;
+  endBlock?: Maybe<Scalars['String']>;
+  endBlock_Gte?: Maybe<Scalars['String']>;
+  endBlock_Lte?: Maybe<Scalars['String']>;
+  fromTxHash?: Maybe<Scalars['String']>;
+  proposalId?: Maybe<Scalars['String']>;
+  proposer?: Maybe<Scalars['String']>;
+  startBlock?: Maybe<Scalars['String']>;
+  startBlock_Gte?: Maybe<Scalars['String']>;
+  startBlock_Lte?: Maybe<Scalars['String']>;
+};
+
+export type ProposalVote = {
+  __typename?: 'ProposalVote';
+  blockNumber: Scalars['Int'];
+  blockTimestamp: Scalars['DateTime'];
+  createdAt: Scalars['DateTime'];
+  fromTxHash: Scalars['String'];
+  id: Scalars['UUID'];
+  originalEventData: Scalars['JSONString'];
+  proposal: Proposal;
+  reason: Scalars['String'];
+  support: Scalars['Int'];
+  updatedAt: Scalars['DateTime'];
+  voter: Scalars['String'];
+  votes: Scalars['Int'];
+};
+
+export type ProposalVoteFilterSetInput = {
+  proposal_ProposalId?: Maybe<Scalars['String']>;
+  support?: Maybe<Scalars['String']>;
+  voter?: Maybe<Scalars['String']>;
+};
+
 export type Query = {
   __typename?: 'Query';
   myProfile?: Maybe<UserProfile>;
+  proposals?: Maybe<Array<Maybe<Proposal>>>;
+  votes?: Maybe<Array<Maybe<ProposalVote>>>;
+};
+
+
+export type QueryProposalsArgs = {
+  filters?: Maybe<ProposalFilterSetInput>;
+};
+
+
+export type QueryVotesArgs = {
+  filters?: Maybe<ProposalVoteFilterSetInput>;
 };
 
 export type RegisterInput = {
@@ -104,6 +182,7 @@ export type TokenAuthSuccess = {
   user?: Maybe<UserProfile>;
 };
 
+
 export type UpdateUserProfileInput = {
   email?: Maybe<Scalars['String']>;
   firstName?: Maybe<Scalars['String']>;
@@ -126,6 +205,16 @@ export type UserProfile = {
   lastName: Scalars['String'];
   username: Scalars['String'];
 };
+
+export type ProposalFragment = { __typename?: 'Proposal', id: string, blockNumber: number, blockTimestamp: any, contractAddress: string, proposer: string, description: string, fromTxHash: string };
+
+export type ProposalsQueryVariables = Exact<{ [key: string]: never; }>;
+
+
+export type ProposalsQuery = { __typename?: 'Query', proposals?: Maybe<Array<Maybe<(
+    { __typename?: 'Proposal' }
+    & ProposalFragment
+  )>>> };
 
 export type UserProfileFragment = { __typename?: 'UserProfile', id: string, firstName: string, lastName: string, email: string, username: string };
 
@@ -176,6 +265,17 @@ export type MyProfileQuery = { __typename?: 'Query', myProfile?: Maybe<(
     & UserProfileFragment
   )> };
 
+export const ProposalFragmentDoc = gql`
+    fragment Proposal on Proposal {
+  id
+  blockNumber
+  blockTimestamp
+  contractAddress
+  proposer
+  description
+  fromTxHash
+}
+    `;
 export const UserProfileFragmentDoc = gql`
     fragment UserProfile on UserProfile {
   id
@@ -185,6 +285,38 @@ export const UserProfileFragmentDoc = gql`
   username
 }
     `;
+export const ProposalsDocument = gql`
+    query proposals {
+  proposals {
+    ...Proposal
+  }
+}
+    ${ProposalFragmentDoc}`;
+
+/**
+ * __useProposalsQuery__
+ *
+ * To run a query within a React component, call `useProposalsQuery` and pass it any options that fit your needs.
+ * When your component renders, `useProposalsQuery` returns an object from Apollo Client that contains loading, error, and data properties
+ * you can use to render your UI.
+ *
+ * @param baseOptions options that will be passed into the query, supported options are listed on: https://www.apollographql.com/docs/react/api/react-hooks/#options;
+ *
+ * @example
+ * const { data, loading, error } = useProposalsQuery({
+ *   variables: {
+ *   },
+ * });
+ */
+export function useProposalsQuery(baseOptions?: Apollo.QueryHookOptions<ProposalsQuery, ProposalsQueryVariables>) {
+        return Apollo.useQuery<ProposalsQuery, ProposalsQueryVariables>(ProposalsDocument, baseOptions);
+      }
+export function useProposalsLazyQuery(baseOptions?: Apollo.LazyQueryHookOptions<ProposalsQuery, ProposalsQueryVariables>) {
+          return Apollo.useLazyQuery<ProposalsQuery, ProposalsQueryVariables>(ProposalsDocument, baseOptions);
+        }
+export type ProposalsQueryHookResult = ReturnType<typeof useProposalsQuery>;
+export type ProposalsLazyQueryHookResult = ReturnType<typeof useProposalsLazyQuery>;
+export type ProposalsQueryResult = Apollo.QueryResult<ProposalsQuery, ProposalsQueryVariables>;
 export const TokenAuthDocument = gql`
     mutation tokenAuth($username_Iexact: String!, $password: String!) {
   tokenAuth(username_Iexact: $username_Iexact, password: $password) {

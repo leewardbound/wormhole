@@ -3,9 +3,13 @@ schema {
   mutation: Mutation
 }
 
+scalar DateTime
+
 type Error {
   message: String!
 }
+
+scalar JSONString
 
 union LogoutResult = LogoutSuccess | Error
 
@@ -28,7 +32,68 @@ type PasswordResetSuccess {
   success: Boolean
 }
 
+type Proposal {
+  id: String!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+  contractAddress: String!
+  fromTxHash: String!
+  blockNumber: Int!
+  blockTimestamp: DateTime!
+  proposalId: Int!
+  description: String!
+  proposer: String!
+  startBlock: Int!
+  endBlock: Int!
+  originalEventData: JSONString!
+  votes: [ProposalVote!]!
+}
+
+input ProposalFilterSetInput {
+  contractAddress: String
+  fromTxHash: String
+  blockNumber: String
+  blockNumber_Lte: String
+  blockNumber_Gte: String
+  blockTimestamp: String
+  blockTimestamp_Lte: String
+  blockTimestamp_Gte: String
+  proposalId: String
+  description: String
+  description_Icontains: String
+  proposer: String
+  startBlock: String
+  startBlock_Lte: String
+  startBlock_Gte: String
+  endBlock: String
+  endBlock_Lte: String
+  endBlock_Gte: String
+}
+
+type ProposalVote {
+  id: UUID!
+  createdAt: DateTime!
+  updatedAt: DateTime!
+  proposal: Proposal!
+  fromTxHash: String!
+  blockNumber: Int!
+  blockTimestamp: DateTime!
+  reason: String!
+  support: Int!
+  voter: String!
+  votes: Int!
+  originalEventData: JSONString!
+}
+
+input ProposalVoteFilterSetInput {
+  proposal_ProposalId: String
+  voter: String
+  support: String
+}
+
 type Query {
+  proposals(filters: ProposalFilterSetInput): [Proposal]
+  votes(filters: ProposalVoteFilterSetInput): [ProposalVote]
   myProfile: UserProfile
 }
 
@@ -59,6 +124,8 @@ type TokenAuthSuccess {
   refreshToken: String
   user: UserProfile
 }
+
+scalar UUID
 
 input UpdateUserProfileInput {
   firstName: String
