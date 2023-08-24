@@ -1,7 +1,7 @@
 def test_list_proposals_query(project_fixture_common):
     result = project_fixture_common.query("query { proposals { proposalId }}")
-    assert result["data"]["proposals"][0]["proposalId"] == 197
-    assert result["data"]["proposals"][1]["proposalId"] == 198
+    assert result["data"]["proposals"][0]["proposalId"] == 197, "First proposal should be 197"
+    assert result["data"]["proposals"][1]["proposalId"] == 198, "Second proposal should be 198"
 
 
 def test_proposal_with_votes_query(project_fixture_common):
@@ -23,9 +23,9 @@ def test_votes_by_address(project_fixture_common):
     result = project_fixture_common.query(
         'query { votes(filters: {voter: "0x008c84421dA5527F462886cEc43D2717B686A7e4"}) { support proposal { proposalId }}}'
     )
-    proposals = result["data"]["votes"]
-    assert len(proposals) == 2
-    assert proposals[0]["proposal"]["proposalId"] == 197
-    assert proposals[0]["support"] == 1
-    assert proposals[1]["proposal"]["proposalId"] == 198
-    assert proposals[1]["support"] == 0
+    votes = result["data"]["votes"]
+    assert len(votes) == 2, "This address should have voted twice"
+    assert votes[0]["proposal"]["proposalId"] == 197, "First vote should be for proposal 197"
+    assert votes[0]["support"] == 1, "First vote should be in support of proposal 197"
+    assert votes[1]["proposal"]["proposalId"] == 198, "Second vote should be for proposal 198"
+    assert votes[1]["support"] == 0, "Second vote should be against proposal 198"
