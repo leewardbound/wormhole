@@ -6,7 +6,7 @@ cd $(dirname $0)/..
 [[ "$CI" == "true" ]] || [[ $(kubectx -c) == $KUBE_CLUSTER ]] || (echo "Must be attached to the $KUBE_CLUSTER cluster" && exit 1)
 
 VERSION=$(test -z "$1" && echo "latest" || echo "$1")
-CHANNEL=$(test -z "$2" && echo "staging" || echo "$2")
+CHANNEL=$(test -z "$2" && echo "production" || echo "$2")
 VALUES=$(test -z "$3" && echo "helm-values.$CHANNEL.secrets.yaml" || echo "$3")
 
 for TAG_IMAGE in "release-backend" "release-frontend"; do

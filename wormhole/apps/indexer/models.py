@@ -64,6 +64,9 @@ class Proposal(TimestampMixin, MediumIDMixin):
         cls.objects.all().delete()
         cls.initialize(initialize_votes=True)
 
+    class Meta:
+        ordering = ["block_timestamp"]
+
 
 class ProposalVote(TimestampMixin, UUIDMixin):
     proposal = models.ForeignKey(Proposal, on_delete=models.CASCADE, related_name="votes")
@@ -115,3 +118,6 @@ class ProposalVote(TimestampMixin, UUIDMixin):
                 print("Skipping ProposalVote tx: ", tx, " because the Proposal does not exist")
             except Exception as e:
                 print("Skipping ProposalVote tx: ", tx, " due to error: ", e)
+
+    class Meta:
+        ordering = ["block_timestamp"]

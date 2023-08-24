@@ -47,6 +47,8 @@ class ProjectFixture:
 
 @pytest.fixture
 def project_fixture_common(db, settings, test_user):
+    from wormhole.apps.indexer.models import Proposal
+    Proposal.clean_initialize()
     user, client, gql = test_user
 
     def query(q, variables=None):
